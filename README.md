@@ -6,10 +6,10 @@
 _[Marcus Stenbeck](http://www.juxt.com/pov/thoughts/building-native-desktop-apps-with-web-tech) [repo here](https://github.com/juxtinteractive/electron-react-sass)_
 
 ## Description
-_very basic but working boilerplate_
+_very basic but working starter_
 
 ## Setup
-_Clone and run npm install, run npm watch, go to localhost:8080 _
+_Clone and run npm install, run npm watch, go to localhost:8080_
 
 ## Technologies Used
 _coming soon_
